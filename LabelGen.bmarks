@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="label_gen.h" open="0" top="0" tabpos="6">
+		<Cursor position="166" topLine="9" />
+		<Book_Marks positions="4543" />
+	</File>
+	<File name="treelistctrl.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="120070" topLine="2847" />
+	</File>
+	<File name="label_gen.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="7968" topLine="146" />
+		<BrowseMarks positions="8921" />
+		<Book_Marks positions="20184,19599" />
+	</File>
+	<File name="thread\mythread.h" open="0" top="0" tabpos="2">
+		<Cursor position="430" topLine="7" />
+	</File>
+	<File name="interface\wxpg_utils.h" open="0" top="0" tabpos="0">
+		<Cursor position="5376" topLine="145" />
+	</File>
+	<File name="LabelGenMain.h" open="0" top="0" tabpos="2">
+		<Cursor position="2594" topLine="66" />
+	</File>
+	<File name="thread\mythread.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="458" topLine="147" />
+	</File>
+	<File name="LabelGenApp.h" open="0" top="0" tabpos="8">
+		<Cursor position="734" topLine="19" />
+	</File>
+	<File name="stdafx.h" open="0" top="0" tabpos="3">
+		<Cursor position="2476" topLine="101" />
+		<BrowseMarks positions="522" />
+		<Book_Marks positions="2811" />
+	</File>
+	<File name="LabelGenApp.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="4003" topLine="126" />
+		<Book_Marks positions="1119" />
+	</File>
+	<File name="stdafx.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="3541" topLine="240" />
+	</File>
+	<File name="interface\wxPostgreSQL.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="275" topLine="0" />
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="1">
+		<Cursor position="53" topLine="0" />
+		<BrowseMarks positions="53" />
+	</File>
+	<File name="connect_para_dlg.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="5560" topLine="99" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="reset_pwd.h" open="0" top="0" tabpos="0">
+		<Cursor position="231" topLine="0" />
+	</File>
+	<File name="LabelGenMain.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3912" topLine="135" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="23471" />
+	</File>
+	<File name="reset_pwd.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="45" topLine="0" />
+	</File>
+	<File name="login_dlg.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="287" topLine="93" />
+	</File>
+	<File name="treelistctrl.h" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+</BrowseTracker_layout_file>

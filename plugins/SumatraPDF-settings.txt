@@ -1,0 +1,111 @@
+﻿# For documentation, see http://blog.kowalczyk.info/software/sumatrapdf/settings3.0.html
+
+MainWindowBackground = #80fff200
+EscToExit = true
+ReuseInstance = false
+UseSysColors = false
+
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = false
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+	PrintAsImage = false
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = cn
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = false
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+WindowState = 2
+WindowPos = 404 0 558 723
+ShowToc = true
+SidebarDx = 0
+TocDy = 0
+ShowStartPage = false
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = D:\develop\code\workspace\wfcode\LabelGen\temp\temp.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 113
+		PageNo = 5
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 404 0 558 723
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = M:\E30001918.012.PDF
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 442
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 404 0 558 723
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 231

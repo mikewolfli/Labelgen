@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxPanel" name="treelist_panel">
+		<size>267,363</size>
+		<pos_arg>1</pos_arg>
+		<size_arg>1</size_arg>
+		<object class="wxBoxSizer" variable="BoxSizer1" member="no">
+			<orient>wxVERTICAL</orient>
+			<object class="sizeritem">
+				<object class="wxGridSizer" variable="GridSizer1" member="no">
+					<cols>2</cols>
+					<rows>3</rows>
+					<object class="sizeritem">
+						<object class="wxButton" name="ID_BUTTON_WBS_LIST" variable="Button_WBS" member="yes">
+							<label>按WBS NO搜索</label>
+							<handler function="OnButton_WBSClick" entry="EVT_BUTTON" />
+						</object>
+						<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<option>1</option>
+					</object>
+					<object class="sizeritem">
+						<object class="wxButton" name="ID_BUTTON_PROJ_NAME" variable="Button_Proj_name" member="yes">
+							<label>按项目名称搜索</label>
+							<handler function="OnButton_Proj_nameClick" entry="EVT_BUTTON" />
+						</object>
+						<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<option>1</option>
+					</object>
+					<object class="sizeritem">
+						<object class="wxButton" name="ID_BUTTON_CONTRACT" variable="Button_Contract" member="yes">
+							<label>按合同号搜索</label>
+							<handler function="OnButton3Click" entry="EVT_BUTTON" />
+						</object>
+						<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<option>1</option>
+					</object>
+					<object class="sizeritem">
+						<object class="wxButton" name="ID_BUTTON_CLEAR" variable="Button_Clear" member="yes">
+							<label>清除结果</label>
+						</object>
+						<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<option>1</option>
+					</object>
+					<object class="sizeritem">
+						<object class="wxButton" name="ID_BUTTON_SYC" variable="Button_Syc" member="yes">
+							<label>同步质量数据库</label>
+							<handler function="OnButton_SycClick" entry="EVT_BUTTON" />
+						</object>
+						<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<option>1</option>
+					</object>
+					<object class="sizeritem">
+						<object class="wxButton" name="ID_BUTTON_PDF" variable="Button_PDF" member="yes">
+							<label>生成PDF</label>
+							<handler function="OnButton_PDFClick" entry="EVT_BUTTON" />
+						</object>
+						<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<option>1</option>
+					</object>
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxStaticBoxSizer" variable="StaticBoxSizer1" member="no">
+					<label>输出项目清单</label>
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<option>5</option>
+			</object>
+		</object>
+	</object>
+</wxsmith>

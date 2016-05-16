@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<usrinfo>
+	<save>true</save>
+	<usrname>10256593</usrname>
+	<password></password>
+</usrinfo>
+<connect>
+	<host>10.127.144.62</host>
+	<port>5432</port>
+	<dbname>pgworkflow</dbname>
+	<dbuser>postgres</dbuser>
+	<dbpwd>MXEydzNlNHI=</dbpwd>
+</connect>
+<import>
+	<path />
+	<split>\t</split>
+</import>
+<environment>
+	<ThreadGap>15</ThreadGap>
+</environment>
+<printsetting>
+	<printer />
+	<setting>fit</setting>
+</printsetting>
